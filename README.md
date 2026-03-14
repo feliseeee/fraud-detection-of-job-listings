@@ -237,7 +237,7 @@ pip install torch torchvision torchaudio
 - **LLM evaluation:** Gemma was only tested on 10 postings — a full evaluation run with formal metrics is needed before production consideration
 - **GPU dependency:** BERT requires GPU infrastructure for production-scale throughput
 - **Label encoding:** Nominal categorical features (industry, function) were label-encoded, imposing false ordinal relationships — one-hot or target encoding recommended for future iterations
-- **Threshold tuning:** The XGBoost decision threshold should be tuned on a validation set to optimise the recall/precision trade-off for GASP's specific risk tolerance
+- **Threshold tuning:** The XGBoost decision threshold should be tuned on a validation set to optimise the recall/precision trade-off.
 
 ---
 
