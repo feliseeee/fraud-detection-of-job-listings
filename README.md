@@ -248,7 +248,7 @@ pip install torch torchvision torchaudio
 | Logistic Regression | 84.3% | 58.9% | CPU | No |
 | Random Forest | 51.7% | 67.4% | CPU | Partial |
 | XGBoost | 72.1% | 75.6% | CPU | Partial |
-| BERT | 90.0% | 81.5% | GPU | No |
+| BERT | 69.1% | 80.4% | GPU | No |
 | Gemma LLM | TBD | TBD | CPU | Yes |
 
 
