@@ -1,5 +1,4 @@
-# Fraudulent Job Ad Detection
-### GovTech Anti-Scam Products Team (GASP) — Take-Home Assessment
+# Fraudulent Job Detection
 
 ---
 
