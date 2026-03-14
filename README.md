@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project develops an automated pipeline to detect and block fraudulent job advertisements before they reach users. Working with a real-world dataset of 17,880 job postings, the solution progresses through exploratory data analysis, classical NLP modelling, deep learning, and LLM-based reasoning — culminating in a two-stage production-ready architecture recommended for GASP deployment.
+This project develops an automated pipeline to detect and block fraudulent job advertisements before they reach users. Working with a real-world dataset of 17,880 job postings, the solution progresses through exploratory data analysis, classical NLP modelling, deep learning, and LLM-based reasoning — culminating in a two-stage production-ready architecture recommended for deployment.
 
 ---
 
